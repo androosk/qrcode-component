@@ -19,6 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 A QR code component. Could be used as a card component if it was in a react app (or really any app).
 
 ### Screenshot
+![Screen Shot 2023-04-26 at 11 25 12 AM](https://user-images.githubusercontent.com/46608870/234661778-834893ad-d6ab-4d2b-adef-3b8f3eb35c42.png)
 
 ### Links
 
